@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa:300,400,700|Montserrat:300,400,700|Open+Sans:400,700|Poppins:300,400,700,900|Quicksand:300,400,500,700|Raleway:300,400,700|Roboto+Condensed:400,700|Roboto:300,400,700|Ubuntu:300,400,700");
+body {
+  font: 16px "Segoe UI", "Segoe UI Web Regular", Arial, sans-serif;
+  width: auto;
+  height: auto;
+  margin: 0;
+  max-width: 100%;
+  z-index: 80;
+  background: #e4fffd;
+}
+li {
+    list-style-type: none !important;
+}
+p {
+  font: 18px "Roboto", sans-serif;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+}
+
+a {
+  color: #ff724e;
+  text-decoration: none;
+}
